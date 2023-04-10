@@ -23,5 +23,6 @@
  
 <div style="display: inline_block"><br> 
       <img align="center" alt="R" height="50" width="50" src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+  </div> 
       
