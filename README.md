@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou o TIAGO CASTRO. </h1>
+<h1 align="center"> Olá! Eu sou TIAGO CASTRO. </h1>
 
 
 
