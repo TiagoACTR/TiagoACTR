@@ -14,7 +14,7 @@ Sou graduado em Segurança da Informação e atualmente estou focado na minha tr
 
 A minha bagagem em InfoSec me dá uma perspectiva única sobre integridade, tratamento seguro e governança de dados. Acredito que dados bem estruturados e seguros são a base tanto para uma boa inteligência de negócio quanto para modelos de machine learning eficientes.
 
-- 🔭 Aprofundando estudos em **SQL, PostgreSQL e ecossistemas de Engenharia de Dados** (pipelines, ETL, orquestração).
+- 🔭 Aprofundando estudos em **SQL e ecossistemas de Engenharia de Dados** (pipelines, ETL, orquestração).
 - 📊 Aplicando Python, SQL e Machine Learning em projetos reais de análise e ciência de dados.
 - 🐧 Construindo uma base sólida em **Linux** e automações.
 
@@ -59,7 +59,7 @@ A minha bagagem em InfoSec me dá uma perspectiva única sobre integridade, trat
 
 * **Ciência de Dados:** Machine Learning aplicado, análise exploratória e storytelling com dados.
 * **Engenharia de Dados:** Modelagem de dados, construção de pipelines e boas práticas de ETL.
-* **Banco de Dados:** Otimização de consultas SQL e administração com PostgreSQL.
+* **Banco de Dados:** Otimização de consultas SQL e administração com SQLite.
 * **Segurança em Dados:** Privacidade, governança e proteção de dados.
 
 ---
